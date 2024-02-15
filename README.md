@@ -2,7 +2,7 @@
 
 The objective is to create a data model that predicts the net hourly electrical energy output (EP) of the plant using available hourly average ambient variables.
 
-This complex, real-world Deep Learning challenge that covers everything from data preprocessing to building and training an ANN, while utilizing the Machine Learning library, Tensorflow 2.0, and Google Colab, the free, browser-based notebook environment that runs completely in the cloud. It’s a game-changing interface that will supercharge your Machine Learning toolkit.
+This complex, real-world Deep Learning challenge that covers everything from data preprocessing to building and training an ANN, while utilizing the Machine Learning library, Tensorflow 2.0, and Google Colab, the free, browser-based notebook environment that runs completely in the cloud. 
 
 Steps:
 
